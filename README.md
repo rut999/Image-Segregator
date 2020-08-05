@@ -17,9 +17,9 @@ Load the model from: /content/drive/My Drive/AML_Project/Images/vgg16_1.h5.
 2.	Specify the range of number of images that contain meme, text and human faces. The ranges can be manually seen( and separated) in :
 /content/drive/My Drive/AML_Project/Test/
 3.	Results of the test sets are stored in the following directories:
-●	/content/drive/My Drive/AML_Project/Test/Humans_Classified.
-●	/content/drive/My Drive/AML_Project/Test/Memes_Classified.
-●	/content/drive/My Drive/AML_Project/Test/Text_Classified.
+#	/content/drive/My Drive/AML_Project/Test/Humans_Classified.
+#	/content/drive/My Drive/AML_Project/Test/Memes_Classified.
+#	/content/drive/My Drive/AML_Project/Test/Text_Classified.
 
 
 
